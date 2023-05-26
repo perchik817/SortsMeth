@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\User\Desktop\Kyz Saikal\My works\AISD_\SRSPsecKolloq\main.cpp(20,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Desktop\Kyz Saikal\My works\AISD_\SRSPsecKolloq\main.cpp(45,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Desktop\Kyz Saikal\My works\AISD_\SRSPsecKolloq\main.cpp(83,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Desktop\Kyz Saikal\My works\AISD_\SRSPsecKolloq\main.cpp(118,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Desktop\Kyz Saikal\My works\AISD_\SRSPsecKolloq\main.cpp(247,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\Kyz Saikal\My works\AISD_\SRSPsecKolloq\main.cpp(251,19): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\User\Desktop\Kyz Saikal\My works\AISD_\SRSPsecKolloq\main.cpp(271,40): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  SRSPsecKolloq.vcxproj -> C:\Users\User\Desktop\Kyz Saikal\My works\AISD_\SRSPsecKolloq\x64\Debug\SRSPsecKolloq.exe
